@@ -1,0 +1,15 @@
+.list-group-item {
+  position: relative;
+}
+
+.borderLeft5::before {
+  content: "";
+  border-left: 5px solid green;
+  position: absolute;
+  left: 0;
+  height: 100%;
+}
+
+.btn-outline-danger {
+  height: fit-content;
+}

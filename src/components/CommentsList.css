@@ -1,0 +1,13 @@
+.container-form {
+  position: relative;
+}
+.item-flag {
+  background: #000000;
+  width: 30px;
+  height: 30px;
+}
+.colorPicker {
+  position: absolute;
+  z-index: 9999;
+  top: 105%;
+}
